@@ -251,7 +251,7 @@ def draw(canvas):
     
     if lives < 0:
         started = False
-        lives = 0
+        lives = 3
         score = 0
     
 
