@@ -11,6 +11,7 @@ lives = 3
 time = 0
 started = False
 
+#main class
 class ImageInfo:
     def __init__(self, center, size, radius = 0, lifespan = None, animated = False):
         self.center = center
